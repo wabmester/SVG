@@ -1,1 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180.19 137.77"><defs><style>.cls-1{fill:none;stroke:#901e1e;stroke-miterlimit:10;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><g id="Layer_8" data-name="Layer 8"><path class="cls-1" d="M179.59,83.25c2,29.79-25.13,35.61-47.48,40.21-.77.16-1.55.27-2.33.37-20.31,2.59-41.42,24.66-59,6C52.39,112.23,13,127.55,2.43,103.68A24.89,24.89,0,0,1,.51,93.06c1-42.3,46-73.32,80.84-90.06a23.85,23.85,0,0,1,6-2c19.73-3.68,27.43,13.29,37.75,25.78C140.47,46.3,180,54.61,179.59,83.25Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 973.1929 743.99996"
+   version="1.1"
+   id="svg178"
+   sodipodi:docname="Asset 6.svg"
+   width="10.137426in"
+   height="7.75in"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview180"
+     showgrid="false"
+     inkscape:document-units="in"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.8067792"
+     inkscape:cx="448.97114"
+     inkscape:cy="372.00994"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg178" />
+  <defs
+     id="defs171">
+    <style
+       id="style169">.cls-1{fill:none;stroke:#901e1e;stroke-miterlimit:10;}</style>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(5.4005385,0,0,5.4005385,0.05177481,0.03751025)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <g
+         id="Layer_8"
+         data-name="Layer 8">
+        <path
+           class="cls-1"
+           d="m 179.59,83.25 c 2,29.79 -25.13,35.61 -47.48,40.21 -0.77,0.16 -1.55,0.27 -2.33,0.37 -20.31,2.59 -41.42,24.66 -59,6 C 52.39,112.23 13,127.55 2.43,103.68 A 24.89,24.89 0 0 1 0.51,93.06 c 1,-42.3 46,-73.32 80.84,-90.06 a 23.85,23.85 0 0 1 6,-2 c 19.73,-3.68 27.43,13.29 37.75,25.78 15.37,19.52 54.9,27.83 54.49,56.47 z"
+           id="path173" />
+      </g>
+    </g>
+  </g>
+</svg>

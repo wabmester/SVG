@@ -1,1 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 211.97 145.09"><defs><style>.cls-1{fill:none;stroke:#901e1e;stroke-miterlimit:10;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><g id="Layer_3" data-name="Layer 3"><path class="cls-1" d="M67.73.91c32,3.79,56.17,19.22,82.44,35.16,1,.6,2,1.17,3.05,1.71,152.43,79.67-34.09,128.69-108.16,97.12-62.55-22.45-57.36-117.72,3.71-133A52.81,52.81,0,0,1,67.73.91Z"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1121.5108 768.00004"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="Asset 1.svg"
+   width="11.682405in"
+   height="8in"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1755"
+     inkscape:window-height="1020"
+     id="namedview36"
+     showgrid="false"
+     inkscape:document-units="in"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.2794817"
+     inkscape:cx="519.36575"
+     inkscape:cy="384.00129"
+     inkscape:window-x="143"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <defs
+     id="defs27">
+    <style
+       id="style25">.cls-1{fill:none;stroke:#901e1e;stroke-miterlimit:10;}</style>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(5.2914726,0,0,5.2914726,-0.07731115,0.13696469)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <g
+         id="Layer_3"
+         data-name="Layer 3">
+        <path
+           class="cls-1"
+           d="m 67.73,0.91 c 32,3.79 56.17,19.22 82.44,35.16 1,0.6 2,1.17 3.05,1.71 C 305.65,117.45 119.13,166.47 45.06,134.9 -17.49,112.45 -12.3,17.18 48.77,1.9 A 52.81,52.81 0 0 1 67.73,0.91 Z"
+           id="path29" />
+      </g>
+    </g>
+  </g>
+</svg>
